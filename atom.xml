@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanessachain.github.io</id>
     <title>法师摘小瓜笔记堂</title>
-    <updated>2021-08-13T03:15:10.106Z</updated>
+    <updated>2021-08-13T03:19:35.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vanessachain.github.io"/>
     <link rel="self" href="https://vanessachain.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2021-08-12T15:52:32.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<p>#1、 Linking 辅音音标+元音音标</p>
+<h2 id="1-linking-辅音音标元音音标">1、 Linking 辅音音标+元音音标</h2>
 <blockquote>
 <p><strong>示例：take it all</strong><br>
 *连读 /te kit/<br>
@@ -29,15 +29,15 @@ with a friend of mine————th与a/thə/，d与of（of要弱读）/dəv/<br
 startup —— flap t /dup/</p>
 <p>/r/ /l/ /n/ /m/ /ŋ/ a pair of ——r与of连读/rəv/<br>
 in the middle of ——le与of连读 /ləv/</p>
-<p>#2、Insertion 元+元<br>
-示例：fire /fai(ə)r/——/faij(ə)r/<br>
+<h2 id="2-insertion-元元">2、Insertion 元+元</h2>
+<p>示例：fire /fai(ə)r/——/faij(ə)r/<br>
 do it——/dowit/<br>
 you and I——/uwən/<br>
 doing——/dowiŋ/<br>
 /a/ /e/ /i/ —— 最后落到紧元音/i:/——/j/<br>
 /o/ /u/ ——最后落到紧元音/u/——/w/</p>
-<p>#3、略读 Gemanation 辅+辅<br>
-（1）两个相同辅音，省略一个辅音<br>
+<h2 id="3-略读-gemanation-辅辅">3、略读 Gemanation 辅+辅</h2>
+<p>（1）两个相同辅音，省略一个辅音<br>
 gas station，省略s<br>
 from me，省略m<br>
 （2）浊辅音+轻辅音<br>
@@ -48,34 +48,34 @@ orange juice<br>
 teach children<br>
 （4）/t/或/d/；/k/或/g/；/b/或/p/相互碰到，直接发后面的音。<br>
 如not to；sit down；hundred dollars；have a good time</p>
-<p>#4、吞音 Gemanation 辅+辅【失去爆破/无声除阻】<br>
-/t/ /d/ /b/ /p/ /k/ /g/ 后出现其他辅音，口部动作照做，但不发出声音<br>
+<h2 id="4-吞音-gemanation-辅辅失去爆破无声除阻">4、吞音 Gemanation 辅+辅【失去爆破/无声除阻】</h2>
+<p>/t/ /d/ /b/ /p/ /k/ /g/ 后出现其他辅音，口部动作照做，但不发出声音<br>
 如：that fly ( /t/ /f/ ) 吞掉/t/<br>
 good dog ( /d/ /g/ )</p>
-<p>#5、吞音 Glottal stop【喉塞音】<br>
-/tən/ /dən/<br>
+<h2 id="5-吞音-glottal-stop喉塞音">5、吞音 Glottal stop【喉塞音】</h2>
+<p>/tən/ /dən/<br>
 written /rit(ə)n/——/ri?ən/<br>
 captain/kæptən/——/kæ??ən/</p>
-<p>#6、略读 H-dropping【H击穿】<br>
-he：Did he have lunch? /didi:/或/dihi:/<br>
+<h2 id="6-略读-h-droppingh击穿">6、略读 H-dropping【H击穿】</h2>
+<p>he：Did he have lunch? /didi:/或/dihi:/<br>
 him：give him 5 bucks. /givəm/弱读 tell him /ləm/<br>
 his：take his letter /kiz/<br>
 her: I wanna make her breakfast. /kər/<br>
 here/house/......</p>
-<p>#7、略读 G- dropping<br>
-省略- ing中的g<br>
+<h2 id="7-略读-g-dropping">7、略读 G- dropping</h2>
+<p>省略- ing中的g<br>
 going /goi:ŋ/——/gowi:ŋ/——/gowin/——/gowən/<br>
 how are you doing——are省略，/haʊja/ /du(w)ən/</p>
-<p>#8、变音 Fusion同化<br>
-（1）/t/ + /j/ = /t∫/<br>
+<h2 id="8-变音-fusion同化">8、变音 Fusion同化</h2>
+<p>（1）/t/ + /j/ = /t∫/<br>
 what about you? 可以失去爆破，也可以变音<br>
 （2）/d/ + /j/ = /dʒ/<br>
 would you / could you<br>
 （3）/s/ + /j/ = /∫/<br>
 this year —— the sure<br>
 （4）/z/ + /j/ = /ʒ/</p>
-<p>#9、弱读缩写<br>
-can /kən/ 下降语调<br>
+<h2 id="9-弱读缩写">9、弱读缩写</h2>
+<p>can /kən/ 下降语调<br>
 can't /kæn/上扬语调<br>
 have作助动词时读/həv/ how long have /ləv/ you been<br>
 and /ə/<br>
@@ -112,12 +112,16 @@ s后面的轻辅音也可以不送气，如speak、stop、scout 例外：disclos
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <p>博主是某工科院校的法硕一枚，致力于首先成为一个'合格的法律人'，再次进阶'精进的法律人'！</p>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>涉猎广泛但爱好不多（？）<br>
-*摄影，构图和调色仍然在孜孜学习中<br>
-*游戏，主星露谷物语，等入了显示屏就沉迷塞尔达（否则会晕）<br>
-*写字绘画，🤔三天打鱼两天晒网拉<br>
-*烹饪，中餐爱好者，炒菜爱好者<br>
-*旅游，if我有钱，print（'我要周游世界'）</p>
+<p>涉猎广泛但爱好不多（？）</p>
+<blockquote>
+<ul>
+<li>摄影，构图和调色仍然在孜孜学习中</li>
+<li>游戏，主星露谷物语，等入了显示屏就沉迷塞尔达（否则会晕）</li>
+<li>写字绘画，🤔三天打鱼两天晒网拉</li>
+<li>烹饪，中餐爱好者，炒菜爱好者</li>
+<li>旅游，if我有钱，print（'我要周游世界'）</li>
+</ul>
+</blockquote>
 <h2 id="联系我呀">📬 联系我呀</h2>
 <p><a href="vanessachain.github.io">vanessachain's blog</a></p>
 ]]></content>
