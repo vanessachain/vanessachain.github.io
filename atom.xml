@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanessachain.github.io</id>
     <title>法师摘小瓜笔记堂</title>
-    <updated>2021-08-13T02:18:19.187Z</updated>
+    <updated>2021-08-13T02:55:15.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vanessachain.github.io"/>
     <link rel="self" href="https://vanessachain.github.io/atom.xml"/>
@@ -16,25 +16,28 @@
         <link href="https://vanessachain.github.io/post/kevin-ying-yu-ting-li-kou-yu-fa-yin-ti-gao-mi-jue/">
         </link>
         <updated>2021-08-12T15:52:32.000Z</updated>
-        <content type="html"><![CDATA[<p>#英语学习<br>
-1、 Linking 辅音音标+元音音标<br>
-示例：take it all<br>
-知识点一：连读 /te kit/<br>
-知识点二：美式不送气 /p/ /k/ —— 类似/b/ /g/<br>
-知识点：flap t 闪音 —— /t/ ——类似于/d/ /te kit dall/<br>
-示例：not at all<br>
+        <content type="html"><![CDATA[<!-- more -->
+<p>#1、 Linking 辅音音标+元音音标</p>
+<blockquote>
+<p><strong>示例：take it all</strong><br>
+*连读 /te kit/<br>
+*美式不送气 /p/ /k/ —— 类似/b/ /g/<br>
+*flap t 闪音 —— /t/ ——类似于/d/ /te kit dall/</p>
+</blockquote>
+<hr>
+<h2 id="示例not-at-allwith-a-friend-of-mineth与athəd与ofof要弱读dəvstartup-flap-t-dup">示例：not at all<br>
 with a friend of mine————th与a/thə/，d与of（of要弱读）/dəv/<br>
-startup —— flap t /dup/<br>
-/r/ /l/ /n/ /m/ /ŋ/ a pair of ——r与of连读/rəv/<br>
-in the middle of ——le与of连读 /ləv/<br>
-2、Insertion 元+元<br>
+startup —— flap t /dup/</h2>
+<h2 id="r-l-n-m-ŋ-a-pair-of-r与of连读rəvin-the-middle-of-le与of连读-ləv">/r/ /l/ /n/ /m/ /ŋ/ a pair of ——r与of连读/rəv/<br>
+in the middle of ——le与of连读 /ləv/</h2>
+<h2 id="2-insertion-元元示例fire-faiərfaijərdo-itdowityou-and-iuwəndoingdowiŋa-e-i-最后落到紧元音ijo-u-最后落到紧元音uw">#2、Insertion 元+元<br>
 示例：fire /fai(ə)r/——/faij(ə)r/<br>
 do it——/dowit/<br>
 you and I——/uwən/<br>
 doing——/dowiŋ/<br>
 /a/ /e/ /i/ —— 最后落到紧元音/i:/——/j/<br>
-/o/ /u/ ——最后落到紧元音/u/——/w/<br>
-3、略读 Gemanation 辅+辅<br>
+/o/ /u/ ——最后落到紧元音/u/——/w/</h2>
+<h2 id="3-略读-gemanation-辅辅1两个相同辅音省略一个辅音gas-station省略sfrom-me省略m2浊辅音轻辅音have-fun浊辅音v省略直接读fi-was-stuck浊辅音z省略直接读s3特例dʒ-t-相互碰到不省略完整读orange-juiceteach-children4t或dk或gb或p相互碰到直接发后面的音-如not-tosit-downhundred-dollarshave-a-good-time">#3、略读 Gemanation 辅+辅<br>
 （1）两个相同辅音，省略一个辅音<br>
 gas station，省略s<br>
 from me，省略m<br>
@@ -45,34 +48,34 @@ I was stuck，浊辅音/z/省略，直接读/s/<br>
 orange juice<br>
 teach children<br>
 （4）/t/或/d/；/k/或/g/；/b/或/p/相互碰到，直接发后面的音。<br>
-如not to；sit down；hundred dollars；have a good time<br>
-4、吞音 Gemanation 辅+辅【失去爆破/无声除阻】<br>
+如not to；sit down；hundred dollars；have a good time</h2>
+<h2 id="4-吞音-gemanation-辅辅失去爆破无声除阻t-d-b-p-k-g-后出现其他辅音口部动作照做但不发出声音如that-fly-t-f-吞掉tgood-dog-d-g">#4、吞音 Gemanation 辅+辅【失去爆破/无声除阻】<br>
 /t/ /d/ /b/ /p/ /k/ /g/ 后出现其他辅音，口部动作照做，但不发出声音<br>
 如：that fly ( /t/ /f/ ) 吞掉/t/<br>
-good dog ( /d/ /g/ )<br>
-5、吞音 Glottal stop【喉塞音】<br>
+good dog ( /d/ /g/ )</h2>
+<h2 id="5-吞音-glottal-stop喉塞音tən-dənwritten-ritənriəncaptainkæptənkæən">#5、吞音 Glottal stop【喉塞音】<br>
 /tən/ /dən/<br>
 written /rit(ə)n/——/ri?ən/<br>
-captain/kæptən/——/kæ??ən/<br>
-6、略读 H-dropping【H击穿】<br>
+captain/kæptən/——/kæ??ən/</h2>
+<h2 id="6-略读-h-droppingh击穿hedid-he-have-lunch-didi或dihihimgive-him-5-bucks-givəm弱读-tell-him-ləmhistake-his-letter-kizher-i-wanna-make-her-breakfast-kərherehouse">#6、略读 H-dropping【H击穿】<br>
 he：Did he have lunch? /didi:/或/dihi:/<br>
 him：give him 5 bucks. /givəm/弱读 tell him /ləm/<br>
 his：take his letter /kiz/<br>
 her: I wanna make her breakfast. /kər/<br>
-here/house/......<br>
-7、略读 G- dropping<br>
+here/house/......</h2>
+<h2 id="7-略读-g-dropping省略-ing中的ggoing-goiŋgowiŋgowingowənhow-are-you-doingare省略haʊja-duwən">#7、略读 G- dropping<br>
 省略- ing中的g<br>
 going /goi:ŋ/——/gowi:ŋ/——/gowin/——/gowən/<br>
-how are you doing——are省略，/haʊja/ /du(w)ən/<br>
-8、变音 Fusion同化<br>
+how are you doing——are省略，/haʊja/ /du(w)ən/</h2>
+<h2 id="8-变音-fusion同化1t-j-twhat-about-you-可以失去爆破也可以变音2d-j-dʒwould-you-could-you3s-j-this-year-the-sure4z-j-ʒ">#8、变音 Fusion同化<br>
 （1）/t/ + /j/ = /t∫/<br>
 what about you? 可以失去爆破，也可以变音<br>
 （2）/d/ + /j/ = /dʒ/<br>
 would you / could you<br>
 （3）/s/ + /j/ = /∫/<br>
 this year —— the sure<br>
-（4）/z/ + /j/ = /ʒ/<br>
-9、弱读缩写<br>
+（4）/z/ + /j/ = /ʒ/</h2>
+<p>#9、弱读缩写<br>
 can /kən/ 下降语调<br>
 can't /kæn/上扬语调<br>
 have作助动词时读/həv/ how long have /ləv/ you been<br>
@@ -97,35 +100,27 @@ s后面的轻辅音也可以不送气，如speak、stop、scout 例外：disclos
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vanessachain.github.io/post/hello-gridea/</id>
-        <link href="https://vanessachain.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[welcome to my home]]></title>
+        <id>https://vanessachain.github.io/post/about/</id>
+        <link href="https://vanessachain.github.io/post/about/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本站点是博主学习笔记整理归纳的个人博客网站，主要关注民商法新法速递、案例研习、理解适用等，同时也会附有英语学习、摄影心得、观影记录等。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>博主是某工科院校的法硕一枚，致力于首先成为一个'合格的法律人'，再次进阶'精进的法律人'！</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>涉猎广泛但爱好不多（？）<br>
+*摄影，构图和调色仍然在孜孜学习中<br>
+*游戏，主星露谷物语，等入了显示屏就沉迷塞尔达（否则会晕）<br>
+*写字绘画，🤔三天打鱼两天晒网拉<br>
+*烹饪，中餐爱好者，炒菜爱好者<br>
+*旅游，if我有钱，print（'我要周游世界'）</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p><a href="vanessachain.github.io">vanessachain's blog</a></p>
 ]]></content>
     </entry>
 </feed>
