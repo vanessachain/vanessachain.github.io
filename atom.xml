@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanessachain.github.io</id>
     <title>法师摘小瓜笔记堂</title>
-    <updated>2021-08-16T14:23:34.569Z</updated>
+    <updated>2021-08-16T14:24:15.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vanessachain.github.io"/>
     <link rel="self" href="https://vanessachain.github.io/atom.xml"/>
@@ -23,9 +23,10 @@
 <pre><code>def greet(name): #函数名
     print(name+'早上好') #函数体 
     return #返回值
+
+greet('Lily') #调用函数，输入函数名pika()并输入参数'Lily'
+&gt;&gt;Lily早上好
 </code></pre>
-<p>greet('Lily') #调用函数，输入函数名pika()并输入参数'Lily'<br>
-》Lily早上好</p>
 <h2 id="位置参数">位置参数</h2>
 <pre><code>def  menu(appetizer,course):
     print('一份开胃菜：'+appetizer)
