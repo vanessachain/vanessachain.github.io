@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanessachain.github.io</id>
     <title>法师摘小瓜笔记堂</title>
-    <updated>2021-08-13T03:33:15.784Z</updated>
+    <updated>2021-08-16T14:23:12.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vanessachain.github.io"/>
     <link rel="self" href="https://vanessachain.github.io/atom.xml"/>
@@ -10,6 +10,140 @@
     <logo>https://vanessachain.github.io/images/avatar.png</logo>
     <icon>https://vanessachain.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 法师摘小瓜笔记堂</rights>
+    <entry>
+        <title type="html"><![CDATA[python基本语法之函数]]></title>
+        <id>https://vanessachain.github.io/post/function/</id>
+        <link href="https://vanessachain.github.io/post/function/">
+        </link>
+        <updated>2021-08-16T13:16:55.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>小摘花python课堂更新啦！</p>
+</blockquote>
+<h2 id="定义和调用函数">定义和调用函数</h2>
+<pre><code>def greet(name): #函数名
+    print(name+'早上好') #函数体 
+    return #返回值
+</code></pre>
+<p>greet('Lily') #调用函数，输入函数名pika()并输入参数'Lily'<br>
+》Lily早上好</p>
+<h2 id="位置参数">位置参数</h2>
+<pre><code>def  menu(appetizer,course):
+    print('一份开胃菜：'+appetizer)
+    print('一份主食：'+course)
+</code></pre>
+<p>menu('话梅花生','牛肉拉面')<br>
+》一份话梅花生<br>
+》一份牛肉拉面</p>
+<h2 id="默认参数">默认参数</h2>
+<pre><code>def  menu(appetizer,course,dessert='绿豆沙'):
+    print('一份开胃菜：'+appetizer)
+    print('一份主食：'+course)
+    print('一份甜品：'+dessert)
+</code></pre>
+<p>​<br>
+menu('话梅花生','牛肉拉面') #因为已经默认将'绿豆沙'传递给dessert，调用时无须再传递。<br>
+&gt;&gt;一份开胃菜话梅花生<br>
+&gt;&gt;一份主食牛肉拉面<br>
+&gt;&gt;一份甜品绿豆沙</p>
+<h2 id="不定长参数">不定长参数</h2>
+<pre><code>def menu(appetizer,course,*barbeque,dessert='绿豆沙'):
+    print('一份开胃菜：'+appetizer)
+    print('一份主菜：'+course)
+    print('一份甜品：'+dessert) 
+    #这时候默认参数也需要放在不定长参数的后面，即dessert=’绿豆沙'要放在*barbeque后面，否则传递的值会对应不上。
+    for i in barbeque:
+        print('一份烤串：'+i)
+    
+menu('话梅花生','牛肉拉面','烤鸡翅','烤茄子','烤玉米')
+&gt;&gt;一份开胃菜话梅花生
+&gt;&gt;一份主菜牛肉拉面
+&gt;&gt;一份甜品绿豆沙
+&gt;&gt;一份烤串烤鸡翅
+&gt;&gt;一份烤串考茄子
+&gt;&gt;一份烤串烤玉米
+</code></pre>
+<h2 id="return语法">return语法</h2>
+<pre><code>def age_question(age):
+    if age &lt; 12:
+        return '哈，是祖国的花朵啊'
+    elif age &lt; 25:
+        return '哇，是小鲜肉呢'
+    else:
+        return '嗯，人生才刚刚开始'
+
+print(age_question(30))
+&gt;&gt;嗯，人生才刚刚开始
+</code></pre>
+<blockquote>
+<p><strong>return语句的作用</strong>：当多个函数之间相互配合时，我们并不需要第一时间就将结果打印出来，而是需要将某个返回值先放着，等到需要的时候再做进一步的处理。return语句可以保留返回值。</p>
+</blockquote>
+<pre><code>def face(name):
+    return name + '的脸蛋'
+def body(name):
+    return name + '的身材'
+
+print('我的梦中情人：'+face('李若彤') +' + ' + body('林志玲'))
+&gt;&gt;我的梦中情人：李若彤的脸蛋+李志玲的身材
+</code></pre>
+<h2 id="main主函数">main（）主函数</h2>
+<pre><code>def face(name):
+    return name + '的脸蛋'
+def body(name):
+    return name + '的身材'
+def main(dream_face,dream_body):
+    return '我的梦中情人：' + face(dream_face) + ' + ' + body(dream_body)
+
+print(main('李若彤','林志玲'))
+print(main('新垣结衣','长泽雅美'))
+</code></pre>
+<h2 id="一次性返回两个值一次接受多个返回值的数据类型就是元组">一次性返回两个值：一次接受多个返回值的数据类型就是元组。</h2>
+<pre><code>def lover(name1,name2):
+    face = name1 + '的脸蛋'
+    body = name2 + '的身材'
+    return face,body
+
+a=lover('李若彤','林志玲')  #此时返回的是元组是('李若彤的脸蛋','林志玲的身材')
+print('我的梦中情人：'+a[0]+' + '+a[1])
+</code></pre>
+<h2 id="没有return语句的函数会默认返回none值">没有return语句的函数会默认返回none值</h2>
+<h2 id="变量作用域">变量作用域</h2>
+<blockquote>
+<p>第一点：在一个函数内定义的变量仅能在函数内部使用（局部作用域），它们被称作[局部变量]。<br>
+第二点：在所有函数之外赋值的变量，可以在程序的任何位置使用（全局作用域），被称作[全局变量]。<br>
+当变量处于被定义的函数内时，就是局部变量，只能在这个函数内被访问；当变量处于被定义的函数外时，就是全局变量，可以在程序中的任何位置被访问。</p>
+</blockquote>
+<pre><code>x=99
+def num():
+    x=88
+    print(x)
+
+num() 
+*打印局部变量x*
+print(x) 
+*打印全局变量x*
+
+
+def egg():    
+    quantity = 108
+egg()
+print(quantity)   
+*会报错，不能在函数外部（全局作用域）使用函数内的局部变量*
+
+quantity = 108
+def egg():
+    print(quantity)
+egg()
+*函数内的局部作用域，可以访问全局变量*
+
+def egg():    
+    global quantity
+    quantity = 108
+egg()
+print(quantity)
+*global语句可以将局部变量声明为全局变量*
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kevin英语听力口语发音提高秘诀]]></title>
         <id>https://vanessachain.github.io/post/kevin-ying-yu-ting-li-kou-yu-fa-yin-ti-gao-mi-jue/</id>
