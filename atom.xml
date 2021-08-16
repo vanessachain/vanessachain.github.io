@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanessachain.github.io</id>
     <title>法师摘小瓜笔记堂</title>
-    <updated>2021-08-16T14:24:15.768Z</updated>
+    <updated>2021-08-16T14:26:21.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vanessachain.github.io"/>
     <link rel="self" href="https://vanessachain.github.io/atom.xml"/>
@@ -31,10 +31,11 @@ greet('Lily') #调用函数，输入函数名pika()并输入参数'Lily'
 <pre><code>def  menu(appetizer,course):
     print('一份开胃菜：'+appetizer)
     print('一份主食：'+course)
+
+menu('话梅花生','牛肉拉面')
+&gt;&gt;一份话梅花生
+&gt;&gt;一份牛肉拉面
 </code></pre>
-<p>menu('话梅花生','牛肉拉面')<br>
-》一份话梅花生<br>
-》一份牛肉拉面</p>
 <h2 id="默认参数">默认参数</h2>
 <pre><code>def  menu(appetizer,course,dessert='绿豆沙'):
     print('一份开胃菜：'+appetizer)
