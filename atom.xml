@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanessachain.github.io</id>
     <title>法师摘小瓜笔记堂</title>
-    <updated>2021-09-08T02:34:39.993Z</updated>
+    <updated>2021-10-15T06:08:12.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vanessachain.github.io"/>
     <link rel="self" href="https://vanessachain.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://vanessachain.github.io/images/avatar.png</logo>
     <icon>https://vanessachain.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 法师摘小瓜笔记堂</rights>
+    <entry>
+        <title type="html"><![CDATA[工商认定注意事项]]></title>
+        <id>https://vanessachain.github.io/post/gong-shang-ren-ding-zhu-yi-shi-xiang/</id>
+        <link href="https://vanessachain.github.io/post/gong-shang-ren-ding-zhu-yi-shi-xiang/">
+        </link>
+        <updated>2021-10-15T06:02:26.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>一、工伤认定首先要<strong>确认劳动关系</strong>，可以经过劳动仲裁、法院判决确定。</p>
+<p>二、工伤认定需要提交的材料【一般为一式两份】<br>
+1、工伤认定申请表；<br>
+2、与用人单位存在劳动关系（包括事实劳动关系）的证明材料；<br>
+3、医疗诊断证明或者职业病诊断证明书（或者职业病诊断鉴定书）；<br>
+4、交通事故认定书（原件）；<br>
+5、委托授权书；<br>
+6、律所介绍信；<br>
+7、代理人身份证复印件。<br>
+8、企业（用工单位）信息；<br>
+9、原件被查材料。<br>
+具体参照当地认定单位要求。</p>
+<p>三、工伤认定单位：一般为人社局</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人身损害赔偿案件实务要点总结(2021)]]></title>
         <id>https://vanessachain.github.io/post/law4/</id>
@@ -814,35 +836,6 @@ ain't = be not/ have not<br>
 I'm = /ʌm/<br>
 we're = /wə'r/<br>
 s后面的轻辅音也可以不送气，如speak、stop、scout 例外：disclose /k/，因为sc后面还是辅音，就念/k/</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome To My Home]]></title>
-        <id>https://vanessachain.github.io/post/about/</id>
-        <link href="https://vanessachain.github.io/post/about/">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<blockquote>
-<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>本站点是博主学习笔记整理归纳的个人博客网站，主要关注民商法新法速递、案例研习、理解适用等，同时也会附有英语学习、摄影心得、观影记录等。</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>博主是某工科院校的法硕一枚，致力于首先成为一个'合格的法律人'，再次进阶'精进的法律人'！</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>涉猎广泛但爱好不多（？）</p>
-<blockquote>
-<ul>
-<li>摄影，构图和调色仍然在孜孜学习中</li>
-<li>游戏，主星露谷物语，等入了显示屏就沉迷塞尔达（否则会晕）</li>
-<li>写字绘画，🤔三天打鱼两天晒网拉</li>
-<li>烹饪，中餐爱好者，炒菜爱好者</li>
-<li>旅游，if我有钱，print（'我要周游世界'）</li>
-</ul>
-</blockquote>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p><a href="vanessachain.github.io">vanessachain's blog</a></p>
 ]]></content>
     </entry>
 </feed>
